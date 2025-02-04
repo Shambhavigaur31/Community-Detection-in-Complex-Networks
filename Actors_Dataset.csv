@@ -1,0 +1,201 @@
+id,name,CGPA,hub,hometown
+1,Navy,8.7,GDSC,Delhi
+2,Rahul,7.5,Thespian,Mumbai
+3,Sanyam,9.1,OSDC,Chennai
+4,Devansh,8.2,Crescendo,Kolkata
+5,Ajaydeep,7.8,GDSC,Delhi
+6,Lokendra,9.0,Nrityang,Bangalore
+7,Sahil,6.9,Prismatic,Mumbai
+8,Vikas,7.4,Kalakriti,Delhi
+9,Harsh,8.5,Radiance,Chennai
+10,Yashika,7.6,Panache,Kolkata
+11,Aniket,8.1,Abhivyakti,Delhi
+12,Aryan,9.2,OSDC,Bangalore
+13,Tejas,6.8,Thespian,Mumbai
+14,Sanskar,7.9,Panache,Delhi
+15,Aaradhya,8.4,GDSC,Chennai
+16,Abhay,7.0,Crescendo,Bangalore
+17,Saugat,8.9,Radiance,Delhi
+18,Shreevardhan,8.6,Prismatic,Mumbai
+19,Anuj,7.2,Thespian,Chennai
+20,Aman,8.3,GDSC,Bangalore
+21,Yash,6.7,Radiance,Delhi
+22,Harshit,7.3,OSDC,Kolkata
+23,Shardendu,8.0,Kalakriti,Bangalore
+24,Akshansh,9.1,RPH,Mumbai
+25,Priyansh,7.8,Panache,Chennai
+26,Sankalp Tyagi,9.5,Crescendo,Mumbai
+27,Vaishali Gupta,8.2,RPH,Pune
+28,Harshit Bansal,6.8,RPH,Bangalore
+29,Vedansh Arora,7.7,Nrityang,Mumbai
+30,Laveena Gupta,8.3,Nrityang,Delhi
+31,Yathartha Kumar,8.7,Abhivyakti,Pune
+32,Tanmay Joshi,8.8,Panache,Bangalore
+33,Sudiksha Chitranshi,7.5,Abhivyakti,Ahmedabad
+34,Muskan Asthana,8.5,Panache,Ahmedabad
+35,Vinayak Goel,6.7,Panache,Chennai
+36,Aayush Goyal,6.6,Nrityang,Mumbai
+37,Aman Kumar Singh,7.4,Kalakriti,Ahmedabad
+38,Divya Sagar,7.2,Radiance,Mumbai
+39,Ayush Pandey,9.3,Kalakriti,Delhi
+40,Prateek Gupta,7.6,Prismatic,Pune
+41,Archit Jain,8.8,Thespian,Bangalore
+42,Kartik Sharma,7.2,Radiance,Pune
+43,Kushal Ajwani,7.6,Nrityang,Ahmedabad
+44,Vikas Indora,7.8,Prismatic,Ahmedabad
+45,Akshit,7.7,OSDC,Chennai
+46,Santosh Agrawal,8.6,OSDC,Bangalore
+47,Muskan Sinha,7.5,Panache,Pune
+48,Karan Adwani,8.1,Crescendo,Mumbai
+49,Neha Khandelwal,9.4,Abhivyakti,Delhi
+50,Sumit Thakur,7.5,GDSC,Chennai
+51,Yashi Jaitly,8.5,Kalakriti,Jaipur
+52,Ishaan Khanna,9.0,Panache,Delhi
+53,Ananya Srivastava,8.2,Abhivyakti,Lucknow
+54,Rishabh Saxena,7.9,Radiance,Mumbai
+55,Vaibhav Kapoor,8.1,Crescendo,Pune
+56,Arushi Mishra,8.3,Nrityang,Chennai
+57,Nishant Gupta,7.6,Thespian,Jaipur
+58,Tanya Sharma,8.4,OSDC,Delhi
+59,Kunal Aggarwal,8.0,GDSC,Bangalore
+60,Divya Mehta,7.7,Kalakriti,Pune
+61,Nidhi Arora,9.1,Radiance,Ahmedabad
+62,Manish Sharma,7.8,Prismatic,Mumbai
+63,Priya Yadav,8.6,Nrityang,Delhi
+64,Ritika Bhardwaj,7.5,Abhivyakti,Chennai
+65,Harsh Tiwari,8.7,Panache,Lucknow
+66,Swati Jha,8.8,Radiance,Pune
+67,Saurabh Chawla,8.2,Kalakriti,Delhi
+68,Neha Joshi,7.9,Thespian,Ahmedabad
+69,Amit Saxena,8.5,OSDC,Mumbai
+70,Kavya Kapoor,7.4,Crescendo,Bangalore
+71,Anmol Jain,8.3,Nrityang,Chennai
+72,Anshul Verma,8.0,Abhivyakti,Jaipur
+73,Siddharth Yadav,9.0,GDSC,Delhi
+74,Isha Pandey,7.5,Prismatic,Lucknow
+75,Riya Sinha,8.1,Kalakriti,Mumbai
+76,Shubham Malhotra,8.6,Panache,Pune
+77,Meghna Kapoor,7.7,OSDC,Ahmedabad
+78,Piyush Arora,8.9,Crescendo,Delhi
+79,Parul Bhardwaj,7.8,Nrityang,Bangalore
+80,Akshay Gupta,8.4,Abhivyakti,Chennai
+81,Tanvi Aggarwal,8.0,GDSC,Jaipur
+82,Rajeev Kumar,7.6,Kalakriti,Mumbai
+83,Rohan Mehta,9.1,Radiance,Delhi
+84,Aditi Joshi,8.3,Thespian,Lucknow
+85,Kritika Verma,8.7,Panache,Pune
+86,Mohit Chawla,7.9,OSDC,Ahmedabad
+87,Sneha Singh,8.5,Crescendo,Bangalore
+88,Karan Kumar,8.0,Nrityang,Chennai
+89,Sanya Gupta,7.8,Abhivyakti,Jaipur
+90,Ashish Tiwari,8.9,Radiance,Delhi
+91,Yash Sharma,9.1,GDSC,Delhi
+92,Mridul Kumar,8.8,Thespian,Noida
+93,Kshitij Kumar,9.2,Radiance,Gurugram
+94,Abhishek Sharma,8.5,Nrityang,Lucknow
+95,Ashish Kumar Sajwal,9.0,Panache,Dehradun
+96,Vandit Kaul,8.3,Crescendo,Mumbai
+97,Aayush Jalali,8.7,Kalakriti,Delhi
+98,Lavanya Bhati,8.9,Abhivayakti,Jaipur
+99,Shivam Bhan,9.3,OSDC,Bhopal
+100,Ayush Bhattarai,8.6,Prismatic,Mumbai
+101,Navya Thakur,8.8,GDSC,Chandigarh
+102,Aadi Gupta,9.0,Thespian,Noida
+103,Shivaprasad Arunkumar Farale,8.4,Radiance,Nagpur
+104,Katipally Siddanth Reddy,8.5,Nrityang,Hyderabad
+105,Boya Veera Pavan,8.6,Panache,Guntur
+106,Abhishek Dubey,9.1,Crescendo,Varanasi
+107,Sushant Singh,8.2,Kalakriti,Patna
+108,Saksham Purohit,8.7,Abhivayakti,Udaipur
+109,Anusha Khare,9.0,OSDC,Raipur
+110,Yash Seth,8.3,Prismatic,Delhi
+111,Sarandeep Singh Sohil,8.5,GDSC,Noida
+112,Raj Aryan,8.6,Thespian,Gurugram
+113,Anubhav Tyagi,8.8,Radiance,Meerut
+114,Phalak Bhatnagar,9.0,Nrityang,Indore
+115,Kinshu Gupta,8.1,Panache,Agra
+116,Navdeep Laddha,8.2,Crescendo,Delhi
+117,Nalla S V S Shankar Ganesh,8.4,Kalakriti,Bangalore
+118,Harsh Malik,8.3,Abhivayakti,Chandigarh
+119,Vishal,9.1,OSDC,Varanasi
+120,Aayushmaan Mittal,8.8,Prismatic,Jaipur
+121,Aarush Gupta,9.0,GDSC,Delhi
+122,Sarthak Verma,8.2,Thespian,Noida
+123,Vansh Tomar,8.7,Radiance,Pune
+124,Shivang Mishra,8.5,Nrityang,Delhi
+125,Vanshika Agarwal,8.6,Panache,Noida
+126,Yash Gautam,9.2,Crescendo,Delhi
+127,Manav Upadhyay,8.9,Kalakriti,Lucknow
+128,Siddharth Agrawal,8.4,Abhivayakti,Bhopal
+129,Prarabh Agarwal,8.5,OSDC,Jaipur
+130,Harsh Vardhan,9.0,Prismatic,Delhi
+131,Aditya Wardhan,8.2,GDSC,Pune
+132,Vanshika Gahlot,8.6,Thespian,Chandigarh
+133,Nishchay Bhardwaj,8.8,Radiance,Udaipur
+134,Yashovardhan Rathore,9.0,Nrityang,Lucknow
+135,Yashvardhan Jain,8.3,Panache,Bhopal
+136,Vanisha Ray,8.5,Crescendo,Chandigarh
+137,Sarthak Negi,8.4,Kalakriti,Dehradun
+138,Tanvi Khanna,8.9,Abhivayakti,Bangalore
+139,Harshit Tyagi,8.2,OSDC,Pune
+140,Chandan Agarwal,9.0,Prismatic,Delhi
+141,Adamya Vikram Singh,8.7,GDSC,Delhi
+142,Nishant Kumar Dwivedi,8.9,Thespian,Jaipur
+143,Sajal Gupta,8.8,Radiance,Gurugram
+144,Dhairya Singla,8.5,Nrityang,Noida
+145,Arya Tyagi,8.6,Panache,Ghaziabad
+146,Shivam Aryan,8.4,Crescendo,Lucknow
+147,David Sharma,8.7,Kalakriti,Mumbai
+148,Mayer Goyal,8.3,Abhivayakti,Bhopal
+149,Manan Sabharwal,9.0,OSDC,Delhi
+150,Alokik Garg,8.6,Prismatic,Chandigarh
+151,Sehal Saxena,8.8,GDSC,Gurugram
+152,Ayush Raina,9.1,Thespian,Dehradun
+153,Aditi Jain,8.5,Radiance,Jaipur
+154,Kapil Sharma,8.7,Nrityang,Bhopal
+155,Yash Gupta,8.9,Panache,Delhi
+156,Rhythm Raheja,8.6,Crescendo,Noida
+157,Vasu Garg,8.8,Kalakriti,Delhi
+158,Gautam Parihar,9.0,Abhivayakti,Chandigarh
+159,Himanshi Choudhary,8.4,OSDC,Bhopal
+160,Ashish Gupta,8.7,Prismatic,Mumbai
+161,Satyam Verma,8.9,GDSC,Delhi
+162,Mehul Agarwal,8.5,Thespian,Kanpur
+163,Gurkirt Singh,8.7,Radiance,Patiala
+164,Shourya Mukhi,9.2,Nrityang,Kolkata
+165,Satvik Pandey,8.8,Panache,Bangalore
+166,Ram Pratap Singh,8.6,Crescendo,Meerut
+167,Yashi Jaitly,8.4,Kalakriti,Faridabad
+168,Kartik Sangwan,9.0,Abhivayakti,Rohtak
+169,Lakshay Joshi,8.7,OSDC,Jaipur
+170,Rajat Agrawal,8.8,Prismatic,Gurugram
+171,Krishna Agrawal,8.5,GDSC,Delhi
+172,Parinita Garg,9.1,Thespian,Noida
+173,Shivam Chaudhary,8.6,Radiance,Bhopal
+174,Pratham Pandey,8.9,Nrityang,Lucknow
+175,Arnav Goyal,9.0,Panache,Noida
+176,Netrambakam Devasaikumar,8.4,Crescendo,Hyderabad
+177,Ishan Jain,8.5,Kalakriti,Delhi
+178,Garv Nangia,8.8,Abhivayakti,Chandigarh
+179,Simran Sardana,8.7,OSDC,Noida
+180,Yuvraj Navneet Rathi,9.2,Prismatic,Delhi
+181,Adit Garg,8.6,GDSC,Gurugram
+182,Himnish Wali,8.7,Thespian,Delhi
+183,Divyansh Bansal,9.0,Radiance,Chandigarh
+184,Sabeeh Ahsan,8.5,Nrityang,Noida
+185,Nishtha Jain,8.3,Panache,Indore
+186,Aryan Singh,9.0,Crescendo,Delhi
+187,Harleen Kaur,8.7,Kalakriti,Pune
+188,Abhinav Singh,8.6,Abhivayakti,Patna
+189,Stuti Srijan,8.9,OSDC,Kanpur
+190,Gaurangi Tyagi,9.1,Prismatic,Delhi
+191,Praveen Kumar,8.4,GDSC,Noida
+192,Tanmay Butta,8.8,Thespian,Bangalore
+193,Lakshya Veer Singh,8.7,Radiance,Lucknow
+194,Himangi Mishra,8.5,Nrityang,Indore
+195,Pranav Kumar,9.0,Panache,Delhi
+196,Madan Gopal Jha,8.6,Crescendo,Patna
+197,Ujjawal Garg,8.4,Kalakriti,Jaipur
+198,Deepanshu Singhal,8.9,Abhivayakti,Delhi
+199,Sandeep Kumar Choudhary,8.7,OSDC,Gurugram
+200,Shrankhala Singh,8.8,Radiance,Chandigarh
